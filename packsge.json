@@ -1,0 +1,10 @@
+{
+    "name": "vue-cli-plugin-demo",
+    "version": "0.1.1",
+    "description": "vue-cli plugin to add demo and demo",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/codephez/vue-cli-plugin-demo.git"
+    },
+    "homepage": "https://github.com/Akryum/vue-cli-plugin-apollo#readme"
+  }
